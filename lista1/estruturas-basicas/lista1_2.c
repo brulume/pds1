@@ -57,3 +57,4 @@ int main(){
     printf("\ns) (cos(d)+sin(c))*(cos(b)-sin(a)) = %f", (cos(d)+sin(c))*(cos(b)-sin(a)));
     return 0;
 }
+
